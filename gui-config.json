@@ -1,0 +1,61 @@
+{
+	"configs" : [
+		{
+			"remarks" : "香港HKT-10G(A) - 543 端口",
+			"id" : "7980637B21E3BBF2C67F33E09AD317BF",
+			"server" : "hk-27.mitsuha-node.com",
+			"server_port" : 543,
+			"server_udp_port" : 0,
+			"password" : "miaomiao",
+			"method" : "aes-256-ctr",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "17382:OeCtny",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "HK2SCH130c785e17382.wns.windows.com",
+			"remarks_base64" : "6aaZ5rivSEtULTEwRyhBKSAtIDU0MyDnq6_lj6M",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "wu-VloIOL-Qd40vLjUfE",
+	"localDnsServer" : "",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"balanceAlgorithm" : "LowException",
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"checkSwitchAutoCloseAll" : false,
+	"logEnable" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : false,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
